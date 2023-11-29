@@ -44,16 +44,6 @@ def main():
         print(f" - {tarefa}")
     print(casa)
 
-    print("-=-"*50)
-    mercado = Projeto("Compras no mercado")
-    mercado.add("Frutas secas")
-    mercado.add("Carne")
-    mercado.add("Tomate")
-    print(mercado)
-    mercado.procurar("Carne").concluir()
-    for tarefas in mercado.tarefas:
-        print(f" - {tarefas}")
-    print(mercado)
 
 
 if __name__ == "__main__":
