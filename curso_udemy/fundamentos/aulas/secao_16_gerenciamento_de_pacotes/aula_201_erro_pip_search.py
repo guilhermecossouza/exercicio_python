@@ -1,1 +1,0 @@
-# comando pip search descontinuado

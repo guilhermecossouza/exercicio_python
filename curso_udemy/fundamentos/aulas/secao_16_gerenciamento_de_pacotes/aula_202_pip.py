@@ -1,1 +1,0 @@
-# instalar pacotes e desistalar
